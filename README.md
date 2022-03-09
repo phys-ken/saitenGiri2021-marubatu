@@ -18,5 +18,5 @@
   * アロハさまのコードに強く依存していますが、このソフトを使って生じたいかなる不具合について、アロハさまも私も責任を追うことはできません。
   * ご意見、ご感想は[Twitter](https://twitter.com/phys_ken)のコメントやDMでお願いします。あくまで趣味の域をでない範囲でのみ対応することをご容赦ください。
 
-[TOPへ戻る](https://phys-ken.github.io/phys-ken/sub2_softwares/)
+[TOPへ戻る](https://phys-ken.github.io/phys-ken/sub2_softwares/)  
 [Twitterへ](https://twitter.com/phys_ken)
