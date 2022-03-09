@@ -6,7 +6,7 @@
 
 ## 使い方
 * [リリースのページ](https://github.com/phys-ken/saitenGiri2021-marubatu/releases)から最新版をダウンロードします。ソフト名は**marubatu.exe**です。
-* まずは、採点斬り2021を使って、採点と、採点済み画像の出力を行います。
+* まずは、[採点斬り2021](https://phys-ken.github.io/saitenGiri2021/)を使って、採点と、採点済み画像の出力を行います。
   * **setting**というフォルダ内に、**kaitoYousi**というフォルダが生成され、その中に点数配分が書かれた画像が入っている状態になっていれば、このソフトを使う準備はOKです。
 * **marubatu.exe**を、saitenGiri2021.exeと同じ場所に配置します。(参考画像)
 ![フォルダの画像](./figs/folder.png)
