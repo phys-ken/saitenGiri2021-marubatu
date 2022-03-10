@@ -20,5 +20,8 @@
     * 事前に模範解答の採点をして、満点の登録をする。
     * outputフォルダの該当の設問のフォルダ(QQ0001)のなかに、正答の場合の場合の配点のフォルダを作る
       * 3点満点の問いであれば、半角数字で **3** という名前のフォルダを作成する。
+
+  
+   
 [TOPへ戻る](https://phys-ken.github.io/phys-ken/sub2_softwares/)  
 [Twitterへ](https://twitter.com/phys_ken)
